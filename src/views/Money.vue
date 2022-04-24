@@ -1,5 +1,7 @@
 <template>
-  <div>Money页面</div>
+  <div>Money页面
+    <Nav/>
+  </div>
 </template>
 
 <script lang="ts">
