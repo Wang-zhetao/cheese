@@ -9858,6 +9858,11 @@ svg-baker@^1.4.0, svg-baker@^1.4.1:
     query-string "^4.3.2"
     traverse "^0.6.6"
 
+svg-loader@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.npmmirror.com/svg-loader/-/svg-loader-0.0.1.tgz#9144c29448fd00a094c7488b841e12058018914c"
+  integrity sha512-ff6WAw3YRjEBzzmwYohNfZ+lGUbhyI+uht/rwN2Vq3c4vUcKpAxZsWR4Z9lKAHipuDhu25c9hF/T2H1qg4E7gA==
+
 svg-sprite-loader@4.1.6:
   version "4.1.6"
   resolved "https://registry.npmmirror.com/svg-sprite-loader/-/svg-sprite-loader-4.1.6.tgz#ca03d51201e326c1c018389c81d5b0eb78dc01de"
